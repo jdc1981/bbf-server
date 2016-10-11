@@ -1,0 +1,9 @@
+{
+    "type": "correctness",
+    "target_team": 904,
+    "arguments": 
+    {
+        "argv": ["%1024%"],
+        "base64": false
+    },
+}

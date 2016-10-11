@@ -1,0 +1,1 @@
+as per build specification any command-line input that is not valid according to the rules should cause the program to exit with a return code of 255 but with valid input program giving same exit code
